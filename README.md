@@ -1,11 +1,10 @@
 ## Hello 👋
-My name is Robert Meyer, I'm from Paraguay and i'm a web developer. 
+My name is Robert Meyer, I'm from Paraguay and i'm a backend developer. 
 ## Skills 🔥
 * HTML. CSS, JavaScript, jQuery, Bootstrap
-* C# ASP.NET Core
-* SQL Server, PLSQL
+* C# ASP.NET Core, Entity Framework
+* SQL Server, Oracle PLSQL, MySQL, Sequelize
 * NodeJS & express
-* A little of Python and Java
 ## Conctact 📧
 robertmeyer.py@gmail.com
 
